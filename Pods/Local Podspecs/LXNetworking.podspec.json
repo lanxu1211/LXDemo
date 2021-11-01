@@ -1,0 +1,22 @@
+{
+  "name": "LXNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of LXNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/兰旭/LXNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "兰旭": "lanxu@5i5j.com"
+  },
+  "source": {
+    "git": "https://github.com/兰旭/LXNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LXNetworking/Classes/**/*"
+}

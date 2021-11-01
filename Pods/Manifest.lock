@@ -1,0 +1,16 @@
+PODS:
+  - LXNetworking (0.1.0)
+
+DEPENDENCIES:
+  - LXNetworking (from `LXLib/LXNetworking`)
+
+EXTERNAL SOURCES:
+  LXNetworking:
+    :path: LXLib/LXNetworking
+
+SPEC CHECKSUMS:
+  LXNetworking: fb844cec028214ad32f37fca96787073fd8ca807
+
+PODFILE CHECKSUM: 62c014eb548bde2d34d4d3efcbf496bdc313bda1
+
+COCOAPODS: 1.10.2
